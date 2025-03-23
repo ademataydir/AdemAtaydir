@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, Welcome, if you're here, it means you want to get to know me closely. </h1>
+<h1 align="center"> Hi! I'm Adem 👋 </h1>
+<h1 align="center"> Welcome to my profile! </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2307F738&size=22&center=true&vCenter=true&lines=Hello+There!+;I'm+Adem+Ataydir...;I'm+Cybersecurity+Engineer!)](https://git.io/typing-svg)
 
-### ![Astronot](https://user-images.githubusercontent.com/43827959/121675693-6a3d5980-cabc-11eb-9f39-fe7999c861f7.gif) About me.
+
+###  About me.
 
 - I'm Adem Ataydir. I have been actively involved with computers for about 15 years and have extensive experience in the installation and maintenance of hardware and software. My great interest in IT motivated me to continue my professional career in the field of IT and cybersecurity. I recently completed a comprehensive one-year training course in cyber security, gaining skills in firewall, SIEM, EDR and penetration testing. Afterwards, I completed a two-month internship in which I was able to apply and deepen my theoretical knowledge in practice.
 
