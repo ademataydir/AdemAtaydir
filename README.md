@@ -18,7 +18,7 @@ Here are some of the projects I've worked on:
 - 🚀 Siem-Splunk
 - - [Splunk Enterprise installation steps on Windows](https://github.com/ademataydir/splunk-enterprise-installation-steps-on-windows)
   - [Splunk Universal Forwarder installation steps on Windows](https://github.com/ademataydir/splunk-universal-forwarder-installation-steps-on-windows)
-  - [Splunk Enterprise installation steps on Windows](https://github.com/ademataydir/splunk-enterprise-installation-steps-on-windows)
+  - [Splunk Universal Forwarder installation steps on Linux](https://github.com/ademataydir/splunk-universal-forwarder-installation-steps-on-linux)
 - 🚀 [Fortigate-Firewall](https://github.com/ademataydir/project2)
 - 🚀 [SophosEDR](https://github.com/ademataydir/project3)
 - 🚀 [Pentesting](https://github.com/ademataydir/project3)
