@@ -11,17 +11,23 @@
 - My goal is to keep developing until I become one of the best in this field.
 
 ....
+
 ### 💼 My Projects
 
 Here are some of the projects I've worked on:
 
-- 🚀 Siem-Splunk
-- - [Splunk Enterprise installation steps on Windows](https://github.com/ademataydir/splunk-enterprise-installation-steps-on-windows)
-  - [Splunk Universal Forwarder installation steps on Windows](https://github.com/ademataydir/splunk-universal-forwarder-installation-steps-on-windows)
-  - [Splunk Universal Forwarder installation steps on Linux](https://github.com/ademataydir/splunk-universal-forwarder-installation-steps-on-linux)
-- 🚀 [Fortigate-Firewall](https://github.com/ademataydir/project2)
-- 🚀 [SophosEDR](https://github.com/ademataydir/project3)
-- 🚀 [Pentesting](https://github.com/ademataydir/project3)
+### 🚀 Siem-Splunk
+
+- [Splunk Enterprise installation steps on Windows](https://github.com/ademataydir/splunk-enterprise-installation-steps-on-windows)
+- [Splunk Universal Forwarder installation steps on Windows](https://github.com/ademataydir/splunk-universal-forwarder-installation-steps-on-windows)
+- [Splunk Universal Forwarder installation steps on Linux](https://github.com/ademataydir/splunk-universal-forwarder-installation-steps-on-linux)
+- [Splunk Use Cases & Dashboards](https://github.com/ademataydir/splunk-use-cases)
+
+### 🚀 Fortigate-Firewall
+
+### 🚀 Sophos EDR
+
+### 🚀 Pentesting
 
 ### 🤝 Contributing
 
