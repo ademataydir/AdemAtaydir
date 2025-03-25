@@ -31,8 +31,11 @@ Here are some of the projects I've worked on:
 
 ### 🚀 Pentesting
 
-- [Vulnerability Management](https://github.com/ademataydir/vulnerability-management)
-
+- [Some concepts](https://github.com/ademataydir/vulnerability-management)
+- [Nessus](https://github.com/ademataydir/Nessus)
+- [Qualys](https://github.com/ademataydir/Qualys)
+- [Nmap](https://github.com/ademataydir/Nmap)
+- [Metasploit](https://github.com/ademataydir/Metasploit)
 ### 🤝 Contributing
 
 I welcome contributions to my projects! Feel free to open an issue or submit a pull request.
