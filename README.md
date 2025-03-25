@@ -37,7 +37,6 @@ Here are some of the projects I've worked on:
 - [Nmap](https://github.com/ademataydir/Nmap)
 - [Metasploit](https://github.com/ademataydir/Metasploit)
 
-
 ---
 
 Thank you for visiting my profile! 😊
