@@ -31,6 +31,8 @@ Here are some of the projects I've worked on:
 
 ### 🚀 Pentesting
 
+- [Vulnerability Management](https://github.com/ademataydir/vulnerability-management)
+
 ### 🤝 Contributing
 
 I welcome contributions to my projects! Feel free to open an issue or submit a pull request.
