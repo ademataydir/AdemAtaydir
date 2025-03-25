@@ -24,13 +24,9 @@ Here are some of the projects I've worked on:
 - [Splunk Use Cases & Dashboards](https://github.com/ademataydir/splunk-use-cases)
 
 ### 🚀 Fortigate-Firewall
-- Fortigate Firewall Configration Steps
-- - [Dashboard](https://github.com/ademataydir/Fortigate-Firewall)
-  - [Network](https://github.com/ademataydir/Fortigate-Firewall)
-  - [Policy & Objects](https://github.com/ademataydir/Fortigate-Firewall)
-  - [Security Profiles](https://github.com/ademataydir/Fortigate-Firewall)
-  - [System](https://github.com/ademataydir/Fortigate-Firewall)
-  - [Log & Report](https://github.com/ademataydir/Fortigate-Firewall)
+
+- [Fortigate Firewall Configration Steps](https://github.com/ademataydir/Fortigate-Firewall)
+ 
 ### 🚀 Sophos EDR
 
 ### 🚀 Pentesting
