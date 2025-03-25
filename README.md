@@ -1,5 +1,5 @@
 <h1 align="center"> Hi! I'm Adem 👋 </h1>
-<h1 align="center"> Welcome to my profile! </h1>
+<h1 align="center"> 🤝  Welcome to my profile! </h1>
 
 
 
@@ -36,9 +36,7 @@ Here are some of the projects I've worked on:
 - [Qualys](https://github.com/ademataydir/Qualys)
 - [Nmap](https://github.com/ademataydir/Nmap)
 - [Metasploit](https://github.com/ademataydir/Metasploit)
-### 🤝 Contributing
 
-I welcome contributions to my projects! Feel free to open an issue or submit a pull request.
 
 ---
 
