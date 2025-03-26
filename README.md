@@ -21,6 +21,7 @@ Here are some of the projects I've worked on:
 - [Splunk Enterprise installation steps on Windows](https://github.com/ademataydir/splunk-enterprise-installation-steps-on-windows)
 - [Splunk Universal Forwarder installation steps on Windows](https://github.com/ademataydir/splunk-universal-forwarder-installation-steps-on-windows)
 - [Splunk Universal Forwarder installation steps on Linux](https://github.com/ademataydir/splunk-universal-forwarder-installation-steps-on-linux)
+- [Install Sysmon on Windows and forward the logs to Splunk Enterprise](https://github.com/ademataydir/sysmon-installation-steps-on-windows)
 - [Splunk Use Cases & Dashboards](https://github.com/ademataydir/splunk-use-cases)
 
 ### 🚀 Fortigate-Firewall
