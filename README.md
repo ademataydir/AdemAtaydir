@@ -5,10 +5,14 @@
 
 ###  About me
 
-- I'm Adem Ataydir. I recently completed a comprehensive one-year training course in cyber security, gaining skills in Firewall, EDR, SIEM, and Penetration testing. Afterwards, I completed a two-month internship in which I was able to apply and deepen my theoretical knowledge in practice.
+I’m Adem Ataydır, a passionate and motivated cybersecurity enthusiast.
+I have been actively involved in the IT world for nearly 20 years. Throughout this time, I have performed numerous hardware and software installations and maintenance tasks on computer systems.
 
-- I enjoy researching cybersecurity systems, learning new information, and continuously working on improving myself.
-- My goal is to keep developing until I become one of the best in this field.
+Most recently, I completed an intensive one-year cybersecurity training program, gaining hands-on experience with tools and concepts such as Firewalls, EDR, SIEM, and Penetration Testing. This was followed by a two-month internship, where I had the opportunity to apply and deepen my theoretical knowledge in practical settings.
+
+I enjoy exploring cybersecurity systems, staying up to date with the latest technologies, and constantly improving my skills.
+
+My ultimate goal is to become one of the top professionals in the field of cybersecurity.
 
 ....
 
