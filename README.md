@@ -6,7 +6,7 @@
 ###  About me
 
 I’m Adem Ataydır, a passionate and motivated cybersecurity enthusiast.
-I have been actively involved in the IT world for nearly 20 years. Throughout this time, I have performed numerous hardware and software installations and maintenance tasks on computer systems.
+I have been actively involved in the IT world for nearly 15 years. Throughout this time, I have performed numerous hardware and software installations and maintenance tasks on computer systems.
 
 Most recently, I completed an intensive one-year cybersecurity training program, gaining hands-on experience with tools and concepts such as Firewalls, EDR, SIEM, and Penetration Testing. This was followed by a two-month internship, where I had the opportunity to apply and deepen my theoretical knowledge in practical settings.
 
