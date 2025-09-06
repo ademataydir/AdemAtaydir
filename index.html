@@ -4,10 +4,10 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Adem Ataydir – Cybersecurity Engineer</title>
-  <meta name="description" content="Persönliche Portfolio‑Website eines Cybersecurity Engineers: Profil, Projekte und Kontakt." />
+  <meta name="description" content="Persönliche Portfolio‑Website eines Cybersecurity Engineers: Profil und Kontakt." />
   <meta name="theme-color" content="#0ef" />
   <meta property="og:title" content="Adem Ataydir – Cybersecurity Engineer" />
-  <meta property="og:description" content="Profil, Projekte und Kontakt." />
+  <meta property="og:description" content="Profil und Kontakt." />
   <meta property="og:type" content="website" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -51,36 +51,7 @@
     .btn{ display:inline-flex; align-items:center; gap:.6rem; padding:.8rem 1rem; border-radius:12px; border:1px solid var(--border); background: linear-gradient(180deg, rgba(255,255,255,.03), rgba(255,255,255,.01)); color:var(--text-100); font-weight:600; }
     .btn.primary{ border-color: rgba(0,229,255,.4); background: linear-gradient(135deg, rgba(0,229,255,.18), rgba(0,255,163,.14)); box-shadow: 0 8px 24px rgba(0,229,255,.12); }
     .btn:hover{ transform: translateY(-1px); box-shadow: 0 10px 24px rgba(0,0,0,.25); }
-    .term{ background: var(--bg-700); border:1px solid var(--border); border-radius:16px; box-shadow: var(--shadow); padding:1rem; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; color:#c3e8ff; }
-    .term .bar{ display:flex; gap:.4rem; align-items:center; margin-bottom:.6rem; }
-    .dot{ width:10px; height:10px; border-radius:50%; background:#334155; }
-    .prompt{ color:#6ee7ff; }
     section{ padding: 4.5rem 0; }
-    .section-title{ font-family: Montserrat, Inter, sans-serif; font-size:1.6rem; margin:0 0 1.2rem; }
-    .muted{ color: var(--muted); }
-    .about{ display:grid; grid-template-columns: .9fr 1.1fr; gap:2rem; }
-    .card{ background: var(--card); border:1px solid var(--border); border-radius:18px; padding:1.2rem; box-shadow: var(--shadow); }
-    .skills{ display:grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap:.6rem; margin-top:.6rem; }
-    .chip{ padding:.5rem .65rem; border:1px solid rgba(0,229,255,.35); border-radius:999px; font-size:.9rem; color: #bff7ff; background: linear-gradient(135deg, rgba(0,229,255,.08), rgba(0,255,163,.06)); }
-    @media (max-width: 900px){ .about, .hero-grid{ grid-template-columns: 1fr; } }
-    .projects-grid{ display:grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap:1rem; }
-    @media (max-width: 1000px){ .projects-grid{ grid-template-columns: repeat(2, minmax(0,1fr)); } }
-    @media (max-width: 680px){ .projects-grid{ grid-template-columns: 1fr; } }
-    .project{ position:relative; overflow:hidden; }
-    .project h3{ margin:.2rem 0 .4rem; font-size:1.05rem; }
-    .project p{ margin:0; color:var(--text-200); font-size:.97rem; }
-    .project .meta{ margin-top:.6rem; font-size:.85rem; color: var(--muted); display:flex; gap:.8rem; align-items:center; }
-    .contact-wrap{ display:grid; grid-template-columns: 1.1fr .9fr; gap:1.2rem; }
-    @media (max-width: 900px){ .contact-wrap{ grid-template-columns: 1fr; } }
-    form{ display:grid; gap:.8rem; }
-    input, textarea{ width:100%; padding:.8rem .95rem; border-radius:12px; border:1px solid var(--border); background: #0c131d; color: var(--text-100); outline: none; box-shadow: inset 0 0 0 1px rgba(0,229,255,.06); }
-    textarea{ min-height:140px; }
-    .foot{ display:flex; justify-content:space-between; gap:1rem; flex-wrap:wrap; margin-top:3rem; padding-top:1.2rem; border-top:1px solid var(--border); color: var(--muted); font-size:.95rem; }
-    .social{ display:flex; gap:.6rem; }
-    .icon-btn{ display:inline-flex; align-items:center; justify-content:center; width:40px; height:40px; border-radius:12px; border:1px solid var(--border); background: linear-gradient(180deg, rgba(255,255,255,.03), rgba(255,255,255,.01)); }
-    .sr-only{ position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); border:0; }
-    .menu a[data-active="true"]{ background: linear-gradient(135deg, rgba(0,229,255,.22), rgba(0,255,163,.16)); color: white; }
-    .mb-0{ margin-bottom:0; }
   </style>
 </head>
 <body>
@@ -91,24 +62,14 @@
         <span>Adem Ataydir</span>
       </a>
       <nav>
-        <button class="hamburger" aria-expanded="false" aria-controls="menu">☰</button>
-        <div id="menu" class="menu" role="menu">
+        <div class="menu" role="menu">
           <a href="#startseite" role="menuitem">Startseite</a>
           <a href="#ueber-mich" role="menuitem">Über mich</a>
-          <a href="#kontakt" role="menuitem">Kontakt</a>
-          <a class="btn" href="#kontakt" role="menuitem">Lebenslauf</a>
-          <a href="#" role="menuitem">Impressum</a>
-          <a href="#" role="menuitem">Datenschutz</a>
+          <a class="btn" href="#kontakt" role="menuitem">Kontakt</a>
         </div>
       </nav>
     </div>
   </header>
-
-  <!-- Dil seçici -->
-  <div style="position:fixed; top:1rem; right:1rem; z-index:100; display:flex; gap:.5rem;">
-    <button onclick="setLang('de')">DE</button>
-    <button onclick="setLang('en')">EN</button>
-  </div>
 
   <!-- HERO -->
   <section id="startseite" class="hero">
@@ -116,49 +77,21 @@
       <div>
         <div class="kicker">Cybersecurity • Vertrauen durch Technik</div>
         <h1>Hallo, ich bin <span style="color:var(--accent)">Adem Ataydir</span>.<br>Cybersecurity Engineer.</h1>
-        <p class="lead">Ich helfe Unternehmen, Systeme und Daten zu schützen – durch Threat‑Modeling, Penetration Testing und sichere Architektur. Fokus auf pragmatische Lösungen, messbare Risiken und klare Kommunikation.</p>
+        <p class="lead">Nach über 10 Jahren Erfahrung als IT-Techniker habe ich mich seit Anfang 2024 im Bereich Cybersecurity weiterentwickelt. Ich bin ein kompetenter, stets aktueller Fachmann für Positionen als IT Security Engineer/Analyst, Cybersecurity Analyst/Engineer und SOC Analyst.</p>
         <div class="cta-row">
           <a class="btn" href="#kontakt">Kontakt aufnehmen</a>
         </div>
       </div>
-      <div class="term" aria-label="Terminal‑Beispiel">
-        <div class="bar"><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>
-        <pre><code><span class="prompt">$</span> nmap -sV 10.0.1.42
-PORT   STATE SERVICE VERSION
-22/tcp open  ssh     OpenSSH 9.3
-80/tcp open  http    nginx 1.25
-
-<span class="prompt">$</span> curl -s https://api/v1/health | jq '.status'
-"ok"
-
-<span class="prompt">$</span> echo "Defense in depth ✅"
-Defense in depth ✅
-</code></pre>
-      </div>
     </div>
   </section>
 
-  <!-- About, Projects, Contact -->
-  <!-- ... (içerik aynı, sadece sosyal linkleri güncelledim) ... -->
-  <script>
-    const setLang = lang => alert('Daha sonra çok dilli içerik eklenebilir: ' + lang);
-    const btn = document.querySelector('.hamburger');
-    const menu = document.getElementById('menu');
-    btn.addEventListener('click', () => {
-      const open = menu.classList.toggle('open');
-      btn.setAttribute('aria-expanded', String(open));
-    });
-    const links = Array.from(document.querySelectorAll('.menu a[href^="#"]'));
-    const sections = links.map(l => document.querySelector(l.getAttribute('href'))).filter(Boolean);
-    const spy = new IntersectionObserver((entries)=>{
-      entries.forEach(entry=>{
-        const id = '#' + entry.target.id;
-        const link = links.find(l => l.getAttribute('href') === id);
-        if(link){ link.dataset.active = entry.isIntersecting ? 'true' : 'false'; }
-      })
-    }, { rootMargin: '-40% 0px -50% 0px', threshold: 0.01 });
-    sections.forEach(sec => spy.observe(sec));
-    document.getElementById('year').textContent = new Date().getFullYear();
-  </script>
+  <!-- Kontakt -->
+  <section id="kontakt">
+    <div class="container">
+      <h2>Kontakt</h2>
+      <p>Email: <a href="mailto:ataydiradem88@gmail.com">ataydiradem88@gmail.com</a></p>
+    </div>
+  </section>
+
 </body>
 </html>
